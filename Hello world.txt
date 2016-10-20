@@ -4,3 +4,6 @@ print("Hello my dear friend;")
 print("Glad to see you;")
 print("What`s up ?")
 print("Связываемся с редмайном")
+
+
++++
